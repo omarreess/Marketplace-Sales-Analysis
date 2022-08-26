@@ -18,3 +18,8 @@ An Exploratory Analytical project for Cleaning , Handling Data & Answering some 
 # DATASET REFRENCE
 
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+
+# Visualization for Top Products in Sales 
+<img src="https://github.com/omarreess/Marketplace-Sales-Analysis/blob/main/sales_top.png" width="700"/>
+
